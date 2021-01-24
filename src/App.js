@@ -197,7 +197,7 @@ function App() {
   }
 
   return (
-    <Router>
+    <Router basename="/">
       <div className="div-App">
         <Header />
         <Switch>
