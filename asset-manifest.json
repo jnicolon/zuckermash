@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/zuckermash/static/css/main.d40e4f7a.chunk.css",
-    "main.js": "/zuckermash/static/js/main.18e6b13b.chunk.js",
-    "main.js.map": "/zuckermash/static/js/main.18e6b13b.chunk.js.map",
+    "main.js": "/zuckermash/static/js/main.60e80da2.chunk.js",
+    "main.js.map": "/zuckermash/static/js/main.60e80da2.chunk.js.map",
     "runtime-main.js": "/zuckermash/static/js/runtime-main.0b5fe969.js",
     "runtime-main.js.map": "/zuckermash/static/js/runtime-main.0b5fe969.js.map",
     "static/js/2.5f4ca36d.chunk.js": "/zuckermash/static/js/2.5f4ca36d.chunk.js",
@@ -52,6 +52,6 @@
     "static/js/runtime-main.0b5fe969.js",
     "static/js/2.5f4ca36d.chunk.js",
     "static/css/main.d40e4f7a.chunk.css",
-    "static/js/main.18e6b13b.chunk.js"
+    "static/js/main.60e80da2.chunk.js"
   ]
 }
